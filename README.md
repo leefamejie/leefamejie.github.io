@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages leefamejie
+## Welcome to Fame Jie GitHub Pages 
 
 You can use the [editor on GitHub](https://github.com/leefamejie/leefamejie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
